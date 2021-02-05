@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**jorgemarcoaltabas/jorgemarcoaltabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚  Estudiando actualmente en CPIFP Pirámide
+- Desarrollo de Aplicaciones Web
+## 🎓  Formacion
+- Educación Secundaria Obligatoria
+- Formacion Profesional Básica de Informática
+- Sistemas Microinformáticos y Redes
+## 📖  Repositorio para trabajos de clase
+  - Java
+  - TypeScript
+  - HTML/CSS
